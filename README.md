@@ -1,2 +1,2 @@
 # terraform
-Used for learning terraform and apply good practices.
+Used to learning terraform and apply good practices.
